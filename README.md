@@ -1,2 +1,2 @@
 # ShopStreet
-e-commmers
+e-commmerce
